@@ -1,0 +1,102 @@
+{
+    "56ddde6b9a695914005b9628": [
+        {
+            "text": "kalifornischen Mountain View",
+            "probability": 0.9997518993602226,
+            "start_logit": 11.642769813537598,
+            "end_logit": 11.279520034790039
+        },
+        {
+            "text": "Mountain View",
+            "probability": 0.00023114203081585924,
+            "start_logit": 3.2705397605895996,
+            "end_logit": 11.279520034790039
+        },
+        {
+            "text": "kalifornischen Mountain View und",
+            "probability": 1.6958608961640604e-05,
+            "start_logit": 11.642769813537598,
+            "end_logit": 0.29503321647644043
+        }
+    ],
+    "56ddde6b9a695914005b9629": [
+        {
+            "text": "ein US-amerikanisches Technologieunternehmen, t\u00e4tig in den Bereichen Hard- und Softwareentwicklung,",
+            "probability": 0.49594133007161634,
+            "start_logit": 6.600564956665039,
+            "end_logit": 5.690153121948242
+        },
+        {
+            "text": "ein US-amerikanisches Technologieunternehmen",
+            "probability": 0.31530789140779364,
+            "start_logit": 6.600564956665039,
+            "end_logit": 5.237245082855225
+        },
+        {
+            "text": "ein US-amerikanisches Technologieunternehmen,",
+            "probability": 0.18875077852059002,
+            "start_logit": 6.600564956665039,
+            "end_logit": 4.724123001098633
+        }
+    ],
+    "56ddde6b9a695914005b962a": [
+        {
+            "text": "Suchmaschine Google",
+            "probability": 0.40585364389116424,
+            "start_logit": 3.7864959239959717,
+            "end_logit": 3.2639052867889404
+        },
+        {
+            "text": "die gleichnamige Suchmaschine Google",
+            "probability": 0.39686334170576665,
+            "start_logit": 3.7640953063964844,
+            "end_logit": 3.2639052867889404
+        },
+        {
+            "text": "gleichnamige Suchmaschine Google",
+            "probability": 0.19728301440306903,
+            "start_logit": 3.0651426315307617,
+            "end_logit": 3.2639052867889404
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d3": [
+        {
+            "text": "4. September 1998",
+            "probability": 0.9998647915683357,
+            "start_logit": 11.241665840148926,
+            "end_logit": 11.230772972106934
+        },
+        {
+            "text": "1998",
+            "probability": 0.000115171552765289,
+            "start_logit": 2.172713279724121,
+            "end_logit": 11.230772972106934
+        },
+        {
+            "text": "am 4. September 1998",
+            "probability": 2.003687889885602e-05,
+            "start_logit": 0.42386502027511597,
+            "end_logit": 11.230772972106934
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d4": [
+        {
+            "text": "Larry Page und Sergey Brin",
+            "probability": 0.9999769099122574,
+            "start_logit": 11.543389320373535,
+            "end_logit": 10.971734046936035
+        },
+        {
+            "text": "Sergey Brin",
+            "probability": 1.4307584072157398e-05,
+            "start_logit": 0.38869160413742065,
+            "end_logit": 10.971734046936035
+        },
+        {
+            "text": "Larry Page",
+            "probability": 8.782503670497895e-06,
+            "start_logit": 11.543389320373535,
+            "end_logit": -0.6709918975830078
+        }
+    ]
+}
